@@ -1,0 +1,12 @@
+
+GroundedSAM			
+GroundingDINO		
+SAM-CLIP			
+Kosmos-2			
+OWLv2	
+CoDet		
+YOLO-World	
+
+
+
+These are models available for detection.
