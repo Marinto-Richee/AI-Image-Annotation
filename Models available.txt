@@ -1,2 +1,0 @@
-GroundingDINO				
-These are models available for detection.
