@@ -1,27 +1,4 @@
-# Image Annotation
 
-�️ Image Annotation is a Python tool for annotating images with bounding boxes.
-
-## Features
-
-✅ Easy-to-use graphical user interface (GUI) for annotating images
-✅ Supports multiple annotation types, including bounding boxes, polygons, and keypoints
-✅ Customizable annotation colors and styles
-✅ Export annotations in popular formats such as Pascal VOC and COCO
-✅ Import existing annotations for further editing
-✅ Keyboard shortcuts for faster annotation
-✅ Cross-platform compatibility (Windows, macOS, Linux)
-
-## Installation
-
-To use Image Annotation, follow these steps:
-
-1. Clone the repository:
-
-   ```shell
-   git clone https://github.com/your-username/Image-annotation.git
-   
-```shell
 # Image Annotation
 
 �📝 This project is a tool for annotating images with bounding boxes.
