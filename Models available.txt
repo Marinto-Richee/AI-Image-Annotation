@@ -1,5 +1,2 @@
 GroundingDINO				
-Kosmos-2			
-OWLv2	
-YOLO-World	
 These are models available for detection.
