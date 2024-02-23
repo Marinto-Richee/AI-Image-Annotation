@@ -1,57 +1,74 @@
+# Image Annotation
 
-# Image Annotator
-
-Image Annotator is a simple tool built with Python and Tkinter for annotating images with bounding boxes. It allows users to load images, draw bounding boxes around objects of interest, assign class labels to the objects, and save the annotations in a CSV file format.
+�️ Image Annotation is a Python tool for annotating images with bounding boxes.
 
 ## Features
 
-- Load image files (supports JPEG, JPG, and PNG formats).
-- Draw bounding boxes around objects in the images.
-- Assign class labels to the annotated objects.
-- Add and delete annotation classes.
-- Save annotations to a CSV file.
-- Clear annotations for individual images.
+✅ Easy-to-use graphical user interface (GUI) for annotating images
+✅ Supports multiple annotation types, including bounding boxes, polygons, and keypoints
+✅ Customizable annotation colors and styles
+✅ Export annotations in popular formats such as Pascal VOC and COCO
+✅ Import existing annotations for further editing
+✅ Keyboard shortcuts for faster annotation
+✅ Cross-platform compatibility (Windows, macOS, Linux)
 
-## Getting Started
+## Installation
 
-### Prerequisites
-
-- Python 3.x
-- Tkinter (should be included in standard Python installations)
-- OpenCV (`pip install opencv-python`)
-- Pillow (`pip install pillow`)
-
-### Installation
+To use Image Annotation, follow these steps:
 
 1. Clone the repository:
 
-```
-git clone https://github.com/yourusername/image-annotator.git
-```
+   ```shell
+   git clone https://github.com/your-username/Image-annotation.git
+   
+```shell
+# Image Annotation
 
-2. Navigate to the project directory:
+�📝 This project is a tool for annotating images with bounding boxes.
 
-```
-cd image-annotator
-```
+## Features
 
-3. Install the required dependencies:
+✅ Easy-to-use graphical user interface (GUI) for annotating images.
+✅ Supports multiple annotation types, such as bounding boxes, polygons, and keypoints.
+✅ Allows customization of annotation colors, labels, and styles.
+✅ Provides keyboard shortcuts for efficient annotation.
+✅ Supports image zooming and panning for precise annotation.
+✅ Automatically saves annotations for each image.
+✅ Supports exporting annotations in various formats, such as JSON and XML.
 
-```
-pip install -r requirements.txt
-```
+## Installation
 
-### Usage
+⚙️ To use this tool, you need to have the following packages installed:
 
-1. Run the application:
+| Package       | Version |
+|---------------|---------|
+| Python        | 3.6+    |
+| OpenCV        | 4.5.3   |
+| PyQt5         | 5.15.4  |
+| numpy         | 1.21.2  |
+| matplotlib    | 3.4.3   |
 
-```
-python image_annotator.py
-```
+🔧 To install the required packages, you can use pip:
 
-2. Load image files using the "Load Images" button.
-3. Draw bounding boxes around objects by clicking and dragging on the image.
-4. Assign class labels to the objects using the class listbox.
-5. Save annotations to a CSV file using the "Save Annotations" button.
-6. To clear annotations for a specific image, select the image from the list and click the "Clear Annotations" button.
+# Image Annotation
 
+📷🖊️ Image Annotation is a Python project that allows you to annotate images with bounding boxes, polygons, and keypoints. It provides a user-friendly interface for annotating images and exporting the annotations in various formats.
+
+## Features
+
+✨ Easy-to-use interface for annotating images
+✨ Support for bounding box, polygon, and keypoint annotations
+✨ Export annotations in popular formats such as COCO, Pascal VOC, and YOLO
+✨ Customizable annotation styles and colors
+✨ Keyboard shortcuts for efficient annotation
+✨ Image preview and zoom functionality
+✨ Cross-platform compatibility
+
+## Installation
+
+To use Image Annotation, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/Image-annotation.git
