@@ -54,6 +54,8 @@ python image_annotator.py
 9. Save annotations using the "Save Annotations" button.
 
 ## Screenshots 📸
+![image](https://github.com/Marinto-Richee/Image-annotation/assets/65499285/2350a4c7-9ea3-4a66-9880-73035c375d5f)
+
 
 
 ## License 📝
