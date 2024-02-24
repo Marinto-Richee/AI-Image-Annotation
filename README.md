@@ -1,51 +1,61 @@
 
-# Image Annotation
+# AI Image Annotator 🖼️
 
-�📝 This project is a tool for annotating images with bounding boxes.
+The AI Image Annotator is a Python application built with tkinter for annotating images with bounding boxes representing objects detected in the images. It also provides functionality to annotate images using an AI model for object detection.
 
-## Features
+## Features ✨
 
-✅ Easy-to-use graphical user interface (GUI) for annotating images.
-✅ Supports multiple annotation types, such as bounding boxes, polygons, and keypoints.
-✅ Allows customization of annotation colors, labels, and styles.
-✅ Provides keyboard shortcuts for efficient annotation.
-✅ Supports image zooming and panning for precise annotation.
-✅ Automatically saves annotations for each image.
-✅ Supports exporting annotations in various formats, such as JSON and XML.
+- Load and display images for annotation.
+- Draw bounding boxes around objects in images.
+- Annotate images with custom classes and colors.
+- Annotate images manually or with the assistance of an AI model.
+- Save annotations in CSV format.
 
-## Installation
+## Requirements 🛠️
 
-⚙️ To use this tool, you need to have the following packages installed:
+- Python 3.x
+- tkinter
+- OpenCV (cv2)
+- Pillow (PIL)
+- matplotlib
+- autodistill
+- autodistill_grounding_dino
 
-| Package       | Version |
-|---------------|---------|
-| Python        | 3.6+    |
-| OpenCV        | 4.5.3   |
-| PyQt5         | 5.15.4  |
-| numpy         | 1.21.2  |
-| matplotlib    | 3.4.3   |
-
-🔧 To install the required packages, you can use pip:
-
-# Image Annotation
-
-📷🖊️ Image Annotation is a Python project that allows you to annotate images with bounding boxes, polygons, and keypoints. It provides a user-friendly interface for annotating images and exporting the annotations in various formats.
-
-## Features
-
-✨ Easy-to-use interface for annotating images
-✨ Support for bounding box, polygon, and keypoint annotations
-✨ Export annotations in popular formats such as COCO, Pascal VOC, and YOLO
-✨ Customizable annotation styles and colors
-✨ Keyboard shortcuts for efficient annotation
-✨ Image preview and zoom functionality
-✨ Cross-platform compatibility
-
-## Installation
-
-To use Image Annotation, follow these steps:
+## Usage 🚀
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/Image-annotation.git
+```
+git clone https://github.com/yourusername/image-annotator.git
+```
+
+2. Navigate to the project directory:
+
+```
+cd image-annotator
+```
+
+3. Install the required dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+4. Run the application:
+
+```
+python image_annotator.py
+```
+
+5. Load images by clicking on the "Load Images" button.
+6. Draw bounding boxes around objects in the images by clicking and dragging the mouse.
+7. Choose classes from the "Annotation Classes" section to assign to the bounding boxes.
+8. Optionally, use the "AI Annotate" button to annotate images with the assistance of an AI model.
+9. Save annotations using the "Save Annotations" button.
+
+## Screenshots 📸
+
+
+## License 📝
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
