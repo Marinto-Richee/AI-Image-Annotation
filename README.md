@@ -55,7 +55,10 @@ python image_annotator.py
 
 ## Screenshots 📸
 ![image](https://github.com/Marinto-Richee/Image-annotation/assets/65499285/2350a4c7-9ea3-4a66-9880-73035c375d5f)
+![image](https://github.com/Marinto-Richee/Image-annotation/assets/65499285/938aa976-6765-42a5-a58a-ab99c3ba6665)
 
+![image](https://github.com/Marinto-Richee/Image-annotation/assets/65499285/ddfb3221-5dfd-49f0-8e76-177874705761)
+![image](https://github.com/Marinto-Richee/Image-annotation/assets/65499285/f6bd05f8-da3c-4f9e-b2f8-e32d03400061)
 
 
 ## License 📝
