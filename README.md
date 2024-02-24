@@ -26,7 +26,7 @@ The AI Image Annotator is a Python application built with tkinter for annotating
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/image-annotator.git
+git clone https://github.com/Marinto-Richee/Image-annotation.git
 ```
 
 2. Navigate to the project directory:
