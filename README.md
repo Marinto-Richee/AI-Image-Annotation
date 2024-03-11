@@ -9,7 +9,7 @@ The AI Image Annotator is a Python application built with tkinter for annotating
 - Draw bounding boxes around objects in images.
 - Annotate images with custom classes and colors.
 - Annotate images manually or with the assistance of an AI model.
-- Save annotations in CSV format.
+- Save annotations in YOLO Format.
 
 ## Requirements 🛠️
 
