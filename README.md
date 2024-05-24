@@ -12,46 +12,33 @@ The AI Image Annotator is a Python application built with tkinter for annotating
 - Save annotations in YOLO Format.
 
 ## Requirements 🛠️
-
-- Python 3.x
-- tkinter
-- OpenCV (cv2)
-- Pillow (PIL)
-- matplotlib
 - autodistill
 - autodistill_grounding_dino
+- matplotlib
+- Pillow
+- roboflow
 
 ## Usage 🚀
 
-1. Clone the repository:
-
-```
-git clone https://github.com/Marinto-Richee/Image-annotation.git
-```
-
-2. Navigate to the project directory:
-
-```
-cd image-annotator
-```
-
-3. Install the required dependencies:
-
-```
+1. Clone the repository.
+2. Install the required packages using the following command:
+```bash
 pip install -r requirements.txt
 ```
-
-4. Run the application:
-
+3. Run the application using the following command:
+- For CSV output:
+```bash 
+python AI_annotation_csv.py
 ```
-python image_annotator.py
+- For YOLOV8 output:
+```bash
+python AI_annotation_yolov8.py
 ```
 
-5. Load images by clicking on the "Load Images" button.
-6. Draw bounding boxes around objects in the images by clicking and dragging the mouse.
-7. Choose classes from the "Annotation Classes" section to assign to the bounding boxes.
-8. Optionally, use the "AI Annotate" button to annotate images with the assistance of an AI model.
-9. Save annotations using the "Save Annotations" button.
+4. Load an image using the "Load Image" button.
+5. Annotate the image by drawing bounding boxes around objects.
+6. Save the annotations in YOLO format using the "Save Annotations" button.
+
 
 ## Screenshots 📸
 ![image](https://github.com/Marinto-Richee/Image-annotation/assets/65499285/2350a4c7-9ea3-4a66-9880-73035c375d5f)
@@ -62,5 +49,4 @@ python image_annotator.py
 
 
 ## License 📝
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
