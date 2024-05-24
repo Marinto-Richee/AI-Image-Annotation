@@ -47,8 +47,7 @@ python AI_annotation_yolov8.py
 ![image](https://github.com/Marinto-Richee/Image-annotation/assets/65499285/ddfb3221-5dfd-49f0-8e76-177874705761)
 ![image](https://github.com/Marinto-Richee/Image-annotation/assets/65499285/f6bd05f8-da3c-4f9e-b2f8-e32d03400061)
 
-
-<iframe width="560" height="315" src="https://github.com/Marinto-Richee/AI-Image-Annotation/blob/d6815f54b709607a8d12ce3f840b5b7c97528aa9/AI%20annotation.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Usage]([path/to/your.gif](https://github.com/Marinto-Richee/AI-Image-Annotation/blob/d6815f54b709607a8d12ce3f840b5b7c97528aa9/AI%20annotation.mp4))
 
 ## License 📝
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
