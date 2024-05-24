@@ -34,20 +34,10 @@ python AI_annotation_csv.py
 ```bash
 python AI_annotation_yolov8.py
 ```
-
 4. Load an image using the "Load Image" button.
 5. Annotate the image by drawing bounding boxes around objects.
 6. Save the annotations in YOLO format using the "Save Annotations" button.
 
-
-## Screenshots 📸
-![image](https://github.com/Marinto-Richee/Image-annotation/assets/65499285/2350a4c7-9ea3-4a66-9880-73035c375d5f)
-![image](https://github.com/Marinto-Richee/Image-annotation/assets/65499285/938aa976-6765-42a5-a58a-ab99c3ba6665)
-
-![image](https://github.com/Marinto-Richee/Image-annotation/assets/65499285/ddfb3221-5dfd-49f0-8e76-177874705761)
-![image](https://github.com/Marinto-Richee/Image-annotation/assets/65499285/f6bd05f8-da3c-4f9e-b2f8-e32d03400061)
-
-![Usage]([path/to/your.gif](https://github.com/Marinto-Richee/AI-Image-Annotation/blob/d6815f54b709607a8d12ce3f840b5b7c97528aa9/AI%20annotation.mp4))
 
 ## License 📝
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
